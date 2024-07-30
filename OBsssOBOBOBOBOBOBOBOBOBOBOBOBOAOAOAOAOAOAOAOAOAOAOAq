@@ -1,0 +1,42 @@
+[33mcommit e9c60b401df0ef7501176cd053ebcdf6c96930a8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m, [m[1;32mupdate_titles[m[33m, [m[1;32mmain[m[33m)[m
+Author: DanKolesnikDev <dan.kolesnikdev@gmail.com>
+Date:   Tue Jul 30 19:34:48 2024 +0200
+
+    G: updated titles.md
+
+[33mcommit dd752d6802dbeddd439b1258507c327f2a8d188c[m
+Merge: 0db518e e662f89
+Author: DanKolesnikDev <dan.kolesnikdev@gmail.com>
+Date:   Tue Jul 30 19:26:22 2024 +0200
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 0db518e2538199ba015a2affe42755100ad57e21[m
+Author: DanKolesnikDev <dan.kolesnikdev@gmail.com>
+Date:   Tue Jul 30 19:22:05 2024 +0200
+
+    E: addet content to contents.md
+
+[33mcommit e662f89be275a3b51e7e0b7fb9d953e9256dd493[m
+Author: DanKolesnikDev <dan.kolesnikdev@gmail.com>
+Date:   Tue Jul 30 19:12:33 2024 +0200
+
+    D: added clasics.csv
+
+[33mcommit a02ffd80578e019ecbbade64953d91a8acf3c097[m
+Author: DanKolesnikDev <dan.kolesnikdev@gmail.com>
+Date:   Tue Jul 30 18:38:10 2024 +0200
+
+    C: add quotes
+
+[33mcommit 4a4e90fb83a8f5de9f19711a3f7fba8a7347c39a[m
+Author: DanKolesnikDev <dan.kolesnikdev@gmail.com>
+Date:   Tue Jul 30 18:32:17 2024 +0200
+
+    B: add titles
+
+[33mcommit cea46b095a907babcde467bc5f2c53e2fc350019[m
+Author: DanKolesnikDev <dan.kolesnikdev@gmail.com>
+Date:   Tue Jul 30 18:06:40 2024 +0200
+
+    A: add contents.md
